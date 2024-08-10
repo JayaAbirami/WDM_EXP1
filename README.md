@@ -7,6 +7,7 @@
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Type the following training data set with the help of Notepad for Employee Table.
 
+
 ```
 --------------
 Employee Data
@@ -54,10 +55,12 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
-
 ## Employee:
+![Screenshot 2024-08-10 192200](https://github.com/user-attachments/assets/cca72aff-cd69-4037-801d-89e0cb2bbb69)
 
 ## Weather:
+![Screenshot 2024-08-10 192247](https://github.com/user-attachments/assets/937447d6-6f07-4c85-9ef8-59636972b1b0)
+
 
 
 ### PREPROCESSING
@@ -81,10 +84,10 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 
 ## Employee:
-![Screenshot 2024-08-10 192200](https://github.com/user-attachments/assets/cca72aff-cd69-4037-801d-89e0cb2bbb69)
+![Screenshot 2024-08-10 192337](https://github.com/user-attachments/assets/214e30e8-12e2-42b9-9f79-f85c8def2292)
 
 ## Weather:
-![Screenshot 2024-08-10 192247](https://github.com/user-attachments/assets/937447d6-6f07-4c85-9ef8-59636972b1b0)
+![Screenshot 2024-08-10 192400](https://github.com/user-attachments/assets/cb4ee2a7-0fb3-4f1c-9174-d03c2c600879)
 
 
 ### 2) Remove -> Pre-Processing Technique:
@@ -104,10 +107,11 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 
 ## Employee:
-![Screenshot 2024-08-10 192337](https://github.com/user-attachments/assets/214e30e8-12e2-42b9-9f79-f85c8def2292)
+![Screenshot 2024-08-10 192527](https://github.com/user-attachments/assets/61a4dc3b-3567-41dd-bbf1-c329c50c033d)
 
 ## Weather:
-![Screenshot 2024-08-10 192400](https://github.com/user-attachments/assets/cb4ee2a7-0fb3-4f1c-9174-d03c2c600879)
+![Screenshot 2024-08-10 192549](https://github.com/user-attachments/assets/22af2554-4f97-4211-8b19-78ff5383416f)
+
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -126,10 +130,11 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 
 ## Employee:
-![Screenshot 2024-08-10 192527](https://github.com/user-attachments/assets/61a4dc3b-3567-41dd-bbf1-c329c50c033d)
+![Screenshot 2024-08-10 192632](https://github.com/user-attachments/assets/f62b4ad6-c76b-4c67-ad1c-66ac99e5257b)
 
 ## Weather:
-![Screenshot 2024-08-10 192549](https://github.com/user-attachments/assets/22af2554-4f97-4211-8b19-78ff5383416f)
+![Screenshot 2024-08-10 192659](https://github.com/user-attachments/assets/c36c0665-3b23-47b1-8638-672a7db8ae50)
+
 
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
